@@ -1,4 +1,4 @@
-# combinational-optimization-HW
+# combinatorial-optimization-HW
 a repository for combinational optimization homework
 
 ## 最小费用流问题
